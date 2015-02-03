@@ -1,6 +1,9 @@
 - [The Shape of an Unequal Wage](/gender-income)
   An exploration of the "gender wage gap"--the disparity in pay between men and women--in the United States. In progress.
 
+- [Bach's Canons](/bach-canons)
+  A (very incomplete) experiment into visualizing the logical structure of a musical canon (in this case, Bach's "Houdemann Canon").
+
 - [Hottest World Cup](/world-cup-heat)
   A look at the weather in cities where World Cup matches were played in 2014, seeing which teams had to play in the hottest weather and how their performance may have suffered as a result.
 
