@@ -1,0 +1,1 @@
+The "projects" are a somewhat random collection of works-in-progress and occasional one-off things I've put together. Many of them are exercises or proof-of-concept projects, but hopefully all of them demonstrate the style and themes that run through my work.
